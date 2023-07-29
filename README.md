@@ -1,4 +1,4 @@
-# Unity Sprite Tail Effect
+# Sprite Tail Effect
 
 [中文](https://github.com/make-game-modules/sprite-trail-controller/blob/main/README.zh-cn.md)
 
