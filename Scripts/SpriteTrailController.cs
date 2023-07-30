@@ -89,7 +89,7 @@ public class SpriteTrailController: MonoBehaviour
 
         direction = direction.normalized;  // 归一化移动方向
 
-        Debug.Log(direction);  // 打印移动方向
+        //Debug.Log(direction);  // 打印移动方向
 
         for (int i = 0; i < clones.Count; i++)  // 对于每一个克隆体
         {
